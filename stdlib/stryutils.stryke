@@ -1,0 +1,21 @@
+# stdlib/stryutils.stryke - small helper library for Stryke
+
+# prints debug-ish object (returns input so it can be used in expressions)
+def show(x):
+    return x
+end
+
+def greet(name):
+    return "Hello " + name
+end
+
+def clamp(x, lo, hi):
+    if ("x < lo"):
+        return lo
+    else:
+        if ("x > hi"):
+            return hi
+        end
+    end
+    return x
+end

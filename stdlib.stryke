@@ -1,0 +1,23 @@
+# stdlib.stryke - minimal stdlib for Stryke
+
+# a helper to print debug objects
+def show(k):
+    return k
+end
+
+# greeting helper
+def greet(name):
+    return "Hello " + name
+end
+
+# math helper
+def clamp(x, lo, hi):
+    if ("x < lo"):
+        return lo
+    else:
+        if ("x > hi"):
+            return hi
+        end
+    end
+    return x
+end

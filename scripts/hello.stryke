@@ -1,0 +1,11 @@
+# scripts/hello.stryke - quick demo
+stryset name ("Hay")
+stryprint "Welcome, {name}!"
+stryset x ("2+3*4")
+stryprint "x = {x}"
+
+def add(a,b):
+    return a + b
+end
+
+stryprint add(5,6)
