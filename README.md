@@ -4,14 +4,6 @@
 
 # This programmin language is used to complete basic tasks or basic scripting !MORE WILL COME SOON!
 
-# Instructions:
+# You might find some .stry files, these files stand for "Stryke Standard FileType". These are fiels that only Stryke engine can read using custom coding in the stryke language.
 
-# 1. Start by Unpacking this file (what you probably already have done)
-
-# 2. "Go to Stryke\scripts\hello.stryke" and double click the file.
-
-# 3. Press "choose an app on your PC" and search "StrykeLauncher.bat" this will auto open any .stryke app you click on.
-
-# 4. To open the CMD go to StrykeCMD and double cick.
-
-# 5. Remember to have fun coding! more coming soon!
+# More to come soon.
